@@ -1,0 +1,18 @@
+.App {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color:#263238;
+}
+
+.bookTile {
+	background-color: #03a9f4;	
+	border: 1px black solid;
+	width:100%;
+	min-height: 175px;
+}
+
+.newBookTile {
+	border: 1px black solid;
+	width:100%;
+	min-height: 175px;
+}
